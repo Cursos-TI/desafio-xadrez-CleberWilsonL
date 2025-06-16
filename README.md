@@ -34,7 +34,9 @@ Movimenta o **Cavalo** em formato de **L**, utilizando **loops aninhados**, send
 ## ✅ Como Executar
 
 1. Compile o código com um compilador C (como `gcc`):
-   ```bash
-   gcc xadrez.c -o matecheck
+gcc xadrez.c -o matecheck
 
-2. ./matecheck
+2. Execute:
+./matecheck
+
+
